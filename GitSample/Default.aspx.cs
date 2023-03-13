@@ -11,7 +11,7 @@ namespace GitSample
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Console.Write("lần thứ 4 commit");
         }
     }
 }
